@@ -3564,7 +3564,7 @@ COPY product_tags (prod_tag_id, product_id, tag_id) FROM stdin;
 
 SELECT pg_catalog.setval('product_tags_prod_tag_id_seq', 2554, true);
 
-
+-- comment for testing
 --
 -- Data for Name: products; Type: TABLE DATA; Schema: public; Owner: postgres
 --

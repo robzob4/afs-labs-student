@@ -41,3 +41,4 @@ def get_cart_total(cart):
         session["cart_total"] += 5.00
 
     session.modified = True
+    # test comment
